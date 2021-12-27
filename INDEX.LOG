@@ -1,0 +1,27 @@
+12/23/98 16:55:50: Starting build.
+12/23/98 16:55:50: Connecting to index.
+12/23/98 16:55:51: Searching: C:\IMAGES
+12/23/98 16:55:51: Indexing 13 documents.
+12/23/98 16:55:52: Extracting from c:\images\chapter8.pdf.
+12/23/98 16:56:14: Extracting from c:\images\biblio.pdf.
+12/23/98 16:56:24: Extracting from c:\images\chapter1.pdf.
+12/23/98 16:56:34: Extracting from c:\images\chapter2.pdf.
+12/23/98 16:56:42: Extracting from c:\images\chapter3.pdf.
+12/23/98 16:57:10: Extracting from c:\images\chapter4.pdf.
+12/23/98 16:57:22: Extracting from c:\images\chapter5.pdf.
+12/23/98 16:57:33: Extracting from c:\images\chapter6.pdf.
+12/23/98 16:57:55: Extracting from c:\images\chapter7.pdf.
+12/23/98 16:58:14: Extracting from c:\images\appendix.pdf.
+12/23/98 16:58:16: Extracting from c:\images\glossary.pdf.
+12/23/98 16:58:24: Extracting from c:\images\index.pdf.
+12/23/98 16:58:28: Extracting from c:\images\preface.pdf.
+12/23/98 16:59:19: Removing index entries for changed or deleted documents.
+12/23/98 16:59:19: Removing unnecessary index entries.
+12/23/98 16:59:19: Building Word Assist List.
+12/23/98 16:59:22: Waiting for about 20 seconds to perform routine index update.
+12/23/98 16:59:43:   Total Acrobat files in all directories: 13
+12/23/98 16:59:43:   Total new files: 13
+12/23/98 16:59:43:   Total pages indexed: 374
+12/23/98 16:59:43:   Total number of files skipped: 0
+12/23/98 16:59:43:   Total deleted files: 0
+12/23/98 16:59:43: Index Build Successful.
